@@ -1,0 +1,18 @@
+{ "data":
+  [
+    {
+      "name" :"Toulouse", "urlProd":"http://toulouse.fr",
+      "urlRecette":"http://toulousefrv6.beorn-tech.fr",
+      "urlDev":"http://tls-migr.beorndev.com",
+      "urlGoogleDrive":"https://drive.google.com/drive/folders/0B09c59zUnEKdWS1VY0N3SlM5Zms",
+      "urlJenkins":"https://jenkins.beorntech.com/view/Toulouse_Project/"
+    },
+    { "name" :"IUCT",
+      "urlProd":"http://iuct.fr",
+      "urlRecette":"http://iuct.beorn-tech.fr",
+      "urlDev":"http://internet-stg.iuct.beorndev.com",
+      "urlGoogleDrive":"https://drive.google.com/drive/folders/0B3j0X3-AVCqrZGZpaFdvWnZ1OFU",
+      "urlJenkins":"https://jenkins.beorntech.com/view/IUCT/"
+    }
+  ]
+}
